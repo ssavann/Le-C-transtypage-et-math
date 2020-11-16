@@ -1,3 +1,3 @@
 # Le-C-transtypage-et-math
 
-Ce programme basic en C contient des variables globales, locales, transtypage, constante, fonctions mathématiques et pour calculer l'aire et le périmètre d'un cercle.  
+This basic C program is about: transcript, global and local variable, constant, overflow, mathematics functions and to calculate the area and perimeter of a circle.
